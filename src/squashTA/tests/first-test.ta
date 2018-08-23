@@ -1,0 +1,9 @@
+// lines prefixed with double slashes count as commentary.
+// the following test will just load a file during the setup phase
+// and make it available in the test context. Read the documentation
+// to know more about scripting. 
+
+
+TEST :
+
+# EXECUTE_SOAPUI exo.xml WITH TEST_SUITE exo8 AND TEST_CASE LatLonListZipCode

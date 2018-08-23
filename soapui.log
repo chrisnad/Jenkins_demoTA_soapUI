@@ -1,0 +1,6 @@
+2018-08-23 14:31:35,050 WARN  [SoapUI] Missing folder [C:\Users\formation\Desktop\Nouveau dossier\demoTA\.\ext] for external libraries
+2018-08-23 14:31:35,298 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\formation\soapui-settings.xml]
+2018-08-23 14:31:35,750 INFO  [SoapUI] File [C:\Users\formation\Desktop\Nouveau dossier\demoTA\file:\C:\Users\FORMAT~1\AppData\Local\Temp\Squash_TA\20180823_143130_777\tests\tests\first-test.ta\ta_url_repo_exo750246835694986482530506.xml] does not exist, trying URL instead
+2018-08-23 14:31:35,800 INFO  [WsdlProject] Loaded project from [file:/C:/Users/FORMAT~1/AppData/Local/Temp/Squash_TA/20180823_143130_777/tests/tests/first-test.ta/ta_url_repo_exo750246835694986482530506.xml]
+2018-08-23 14:31:35,820 WARN  [WsdlProject] Project 'exo' is from a newer version (5.4.0) of soapUI than this (4.0.1) and parts of it may be incompatible or incorrect. Saving this project with this version of soapUI may cause it to function differently.
+2018-08-23 14:31:37,981 WARN  [AbstractSoapVersion] Ignoring validation error: error: cvc-complex-type.3.2.2: Attribute not allowed: encodingStyle@http://schemas.xmlsoap.org/soap/envelope/ in element Envelope@http://schemas.xmlsoap.org/soap/envelope/
